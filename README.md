@@ -5,6 +5,7 @@ Swagger UI
 
 # Food Recipe API
 This is a robust Food Recipe API built using Python, Django, Django Rest Framework, Swagger, DRF, and Docker.
+
 ## Overview
 The Food Recipe API provides endpoints for managing food recipes, including creating, updating, deleting, and retrieving recipes and tag and image.
 Users can perform various actions such as create account,update account, register,verified using Token  and also adding new recipes, updating existing ones, 
@@ -13,15 +14,16 @@ and browsing through a collection of diverse recipes.
 ## Features
 
 - **Adbvanced api concept:** Create, Retrieve, Update, Delete (CRUD) operations for recipes
--**Authentication:** and authorization mechanisms using Token Create , delete register User using Token Drf python module
--**Swagger:** documentation for API reference.
--**Containerized:** with Docker for easy deployment and management
--**TAG:** add tag for recipe
--**Ingredients:** add ingreadient for food recipe
--**images :** add food image
--**compatibilty :** it work all plateform website and  mobile aplications
+- **Authentication:** and authorization mechanisms using Token Create , delete register User using Token Drf python module
+- **Swagger:** documentation for API reference.
+- **Containerized:** with Docker for easy deployment and management
+- **TAG:** add tag for recipe
+- **Ingredients:** add ingreadient for food recipe
+- **images :** add food image
+- **compatibilty :** it work all plateform website and  mobile aplications
 -** it is fully functional but note host**  
--**And MORE...** 
+-**And MORE...**
+  
 ## Installation
 
 1. Clone the repository:
