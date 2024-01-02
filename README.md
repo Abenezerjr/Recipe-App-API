@@ -92,5 +92,5 @@ Special thanks to [Django](https://www.djangoproject.com/) and [python](https://
 
 ---
 
-Feel free to modify and expand upon this README to better reflect the features, setup instructions, and any other details specific to your Django blog project.
+Feel free to modify and expand upon this README to better reflect the features
 
