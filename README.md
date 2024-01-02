@@ -12,14 +12,14 @@ and browsing through a collection of diverse recipes.
 
 ## Features
 
-- **Create, Retrieve, Update, Delete (CRUD) operations for recipes**
--**Authentication and authorization mechanisms**
--**Swagger documentation for API reference**
--**Containerized with Docker for easy deployment and management**
--**Create , delete register User using Token Drf python module**
--**add tag for recipe**
--**Add images for food**
--**it work all plateform website and  mobile aplications**
+- **Adbvanced api concept:** Create, Retrieve, Update, Delete (CRUD) operations for recipes
+-**Authentication:** and authorization mechanisms using Token Create , delete register User using Token Drf python module
+-**Swagger:** documentation for API reference.
+-**Containerized:** with Docker for easy deployment and management
+-**TAG:** add tag for recipe
+-**Ingredients:** add ingreadient for food recipe
+-**images :** add food image
+-**compatibilty :** it work all plateform website and  mobile aplications
 -** it is fully functional but note host**  
 -**And MORE...** 
 ## Installation
