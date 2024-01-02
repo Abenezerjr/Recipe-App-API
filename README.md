@@ -11,10 +11,15 @@ The Food Recipe API provides endpoints for managing food recipes, including crea
 
 # Technologies Used
 Python - Programming Language
+
  Django - Web Framework
- Django Rest Framework - RESTful API Framework
+ 
+ Django Rest Framework - RESTful API Framework 
+ 
  Swagger - API Documentation Tool
+ 
  Docker - Containerization Platform
+ 
  # Features
  
  Create, Retrieve, Update, Delete (CRUD) operations for recipes
@@ -26,17 +31,17 @@ Python - Programming Language
  
 # To set up and run this API on your local machine:
 
- Clone the repository: git clone https://github.com/Abenezerjr/Blog_page.git
- Install the required dependencies: pip install -r requirements.txt
- Start the server:  docker-compose up
- to test: docker-compose run --rm app sh -c "python manage.py test"
+                                       # Clone the repository: git clone https://github.com/Abenezerjr/Blog_page.git
+                                      # Install the required dependencies: pip install -r requirements.txt
+                                     # Start the server:  docker-compose up
+                                     # to test: docker-compose run --rm app sh -c "python manage.py test"
 
 # API Documentation
 The API endpoints and detailed documentation are available via Swagger. To access:
 
 # Run the server locally
 
-Visit http://localhost:8000/api/docs/ in your browser
+                                               # Visit http://localhost:8000/api/docs/ in your browser
 Usage
 Here's a basic overview of how to use the API:
 
