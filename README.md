@@ -5,12 +5,12 @@ Swagger UI
 
 Food Recipe API
 This is a robust Food Recipe API built using Python, Django, Django Rest Framework, Swagger, DRF, and Docker.
-
-                                                     #Overview  
+ #Overview  
 The Food Recipe API provides endpoints for managing food recipes, including creating, updating, deleting, and retrieving recipes. Users can perform various actions such as crating accoute using Token adding new recipes, updating existing ones, and browsing through a collection of diverse recipes.
 
 # Technologies Used
-Python - Programming Language
+
+ Python - Programming Language
 
  Django - Web Framework
  
@@ -31,10 +31,15 @@ Python - Programming Language
  
 # To set up and run this API on your local machine:
 
-                                       # Clone the repository: git clone https://github.com/Abenezerjr/Blog_page.git
-                                      # Install the required dependencies: pip install -r requirements.txt
-                                     # Start the server:  docker-compose up
-                                     # to test: docker-compose run --rm app sh -c "python manage.py test"
+# Clone the repository: 
+                                       # git clone https://github.com/Abenezerjr/Blog_page.git
+# Install the required dependencies:
+                                     # pip install -r requirements.txt
+# Start the server: 
+                                     #docker-compose up
+                                     
+ # to test: 
+                                     # docker-compose run --rm app sh -c "python manage.py test"
 
 # API Documentation
 The API endpoints and detailed documentation are available via Swagger. To access:
@@ -42,7 +47,7 @@ The API endpoints and detailed documentation are available via Swagger. To acces
 # Run the server locally
 
                                                # Visit http://localhost:8000/api/docs/ in your browser
-Usage
+#Usage
 Here's a basic overview of how to use the API:
 
 Register and authenticate to access privileged endpoints.
