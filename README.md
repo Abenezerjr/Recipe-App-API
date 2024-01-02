@@ -10,24 +10,24 @@ This is a robust Food Recipe API built using Python, Django, Django Rest Framewo
 The Food Recipe API provides endpoints for managing food recipes, including creating, updating, deleting, and retrieving recipes. Users can perform various actions such as crating accoute using Token adding new recipes, updating existing ones, and browsing through a collection of diverse recipes.
 
 # Technologies Used
-# Python - Programming Language
-# Django - Web Framework
-# Django Rest Framework - RESTful API Framework
-# Swagger - API Documentation Tool
-# Docker - Containerization Platform
-                                                      # Features
-# Create, Retrieve, Update, Delete (CRUD) operations for recipes
-# user autentication system using DRF Token user can create account And Update it
-# Authentication and authorization mechanisms
-# Swagger documentation for API reference
-# Containerized with Docker for easy deployment and management
-# Setup Instructions
+Python - Programming Language
+ Django - Web Framework
+ Django Rest Framework - RESTful API Framework
+ Swagger - API Documentation Tool
+ Docker - Containerization Platform
+ # Features
+ Create, Retrieve, Update, Delete (CRUD) operations for recipes
+ user autentication system using DRF Token user can create account And Update it
+ Authentication and authorization mechanisms
+ Swagger documentation for API reference
+ Containerized with Docker for easy deployment and management
+ Setup Instructions
 # To set up and run this API on your local machine:
 
-# Clone the repository: git clone https://github.com/Abenezerjr/Blog_page.git
-# Install the required dependencies: pip install -r requirements.txt
-# Start the server:  docker-compose up
-# to test: docker-compose run --rm app sh -c "python manage.py test"
+ Clone the repository: git clone https://github.com/Abenezerjr/Blog_page.git
+ Install the required dependencies: pip install -r requirements.txt
+ Start the server:  docker-compose up
+ to test: docker-compose run --rm app sh -c "python manage.py test"
 
 # API Documentation
 The API endpoints and detailed documentation are available via Swagger. To access:
