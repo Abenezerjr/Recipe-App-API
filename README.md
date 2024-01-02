@@ -16,12 +16,14 @@ Python - Programming Language
  Swagger - API Documentation Tool
  Docker - Containerization Platform
  # Features
+ 
  Create, Retrieve, Update, Delete (CRUD) operations for recipes
- user autentication system using DRF Token user can create account And Update it
+  user autentication system using DRF Token user can create account And Update it
  Authentication and authorization mechanisms
  Swagger documentation for API reference
  Containerized with Docker for easy deployment and management
  Setup Instructions
+ 
 # To set up and run this API on your local machine:
 
  Clone the repository: git clone https://github.com/Abenezerjr/Blog_page.git
@@ -33,6 +35,7 @@ Python - Programming Language
 The API endpoints and detailed documentation are available via Swagger. To access:
 
 # Run the server locally
+
 Visit http://localhost:8000/api/docs/ in your browser
 Usage
 Here's a basic overview of how to use the API:
