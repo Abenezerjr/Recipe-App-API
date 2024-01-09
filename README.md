@@ -1,6 +1,7 @@
 # Recipe-App-API
 Recipe-API Project
-![image](https://github.com/Abenezerjr/Recipe-App-API/assets/106702572/98820ba0-4ce5-40f9-b3d8-4ef44c4ec6e8)
+![image](https://github.com/Abenezerjr/Recipe-App-API/assets/106702572/ecd20cca-4354-46d0-bad7-8d121c11bd18)
+
 Swagger UI
 
 # Food Recipe API
