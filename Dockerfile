@@ -24,7 +24,11 @@ RUN python -m venv /py && \
     adduser \
         --disabled-password \
         --no-create-home \
-        api-user
+        api-user && \
+        mkdir -p /vol/web/media && \
+        mkdir -p /vol/web/static && \
+        chown -R api-user:api-user /vol && \
+        chmod -R 755 /vol
 
 ENV PATH="/py/bin:$PATH"
 
